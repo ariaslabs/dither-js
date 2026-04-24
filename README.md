@@ -1,15 +1,18 @@
 # dither-js
 
-To install dependencies:
+This is just an experiment to see how to dither images.
 
-```bash
-bun install
 ```
+// How to run
 
-To run:
-
-```bash
+bun install
 bun run index.ts
 ```
 
-This project was created using `bun init` in bun v1.3.9. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+## Input
+
+![input](david_bust.jpg)
+
+## Output
+
+![output](output.jpg)

@@ -1,7 +1,7 @@
 import sharp from "sharp";
 
 const steps = 1;
-const scale = 0.5;
+const scale = 0.25;
 
 async function Main() {
   const original = await sharp("david_bust.jpg").metadata();
